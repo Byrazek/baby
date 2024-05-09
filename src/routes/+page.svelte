@@ -54,7 +54,7 @@
   <section class="flex flex-col justify-center items-center mt-16">
     <div class="flex">
       <div class="nc text-4xl">Nueva Coleccion 2024</div>
-      <img class="ml-10 h-8 w-auto" src="../../src/lib/images/logo.jpeg" alt="">
+      <img class="ml-10 h-8 w-auto" src="https://i.postimg.cc/vmWKf5Pn/logo.jpg" alt="">
     </div>
     
     <div class="mt-5">Nueva selección de prendas para niños de diferentes edades está disponible online</div>
