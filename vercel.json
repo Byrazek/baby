@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/mi-endpoint": {
-      "handler": "functions/mi-endpoint.js"
+      "borrar": "functions/mi-endpoint.js"
     }
   }
 }
