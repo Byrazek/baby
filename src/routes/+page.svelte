@@ -20,13 +20,13 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>nijolinnijolan</title>
 	<meta name="description" content="Svelte" />
 </svelte:head>
 
 <Layout>
   <main>
-  <img class="parallax" src="" alt="">
+  <img class="parallax" src="https://images.alphacoders.com/910/thumb-1920-910418.jpg" alt="">
   <div class="bg-white">
     <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
       <h2 class="sr-only">Products</h2>
@@ -52,7 +52,11 @@
   </div>
   
   <section class="flex flex-col justify-center items-center mt-16">
-    <div class="nc text-4xl">Nueva Coleccion 2024</div>
+    <div class="flex">
+      <div class="nc text-4xl">Nueva Coleccion 2024</div>
+      <img class="ml-10 h-8 w-auto" src="../../src/lib/images/logo.jpeg" alt="">
+    </div>
+    
     <div class="mt-5">Nueva selección de prendas para niños de diferentes edades está disponible online</div>
   </section>
   
