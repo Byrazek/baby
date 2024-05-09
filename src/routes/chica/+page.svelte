@@ -2,7 +2,7 @@
 // @ts-nocheck
   import Layout from '../layout.svelte'
   import { onMount } from "svelte";
-  let API_URL = "http://158.101.211.156:5038/"
+  let API_URL = "https://nijolinnijolan:5038/"
   let chica = []
 
   function usuarios() {

@@ -1,14 +1,14 @@
 <script>
   import Layout from './layout.svelte'
 	import { onMount } from "svelte";
-  let API_URL = "http://localhost:5038/"
+  let API_URL = "https://nijolinnijolan:5038"
   /**
 	 * @type {any[]}
 	 */
   let newsletter = []
 
   function usuarios() {
-    fetch(API_URL + "api/newsletter")
+    fetch(API_URL + "/api/newsletter")
     .then(response=>response.json())
     .then(data=>{
       newsletter = data
