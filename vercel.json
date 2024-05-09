@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/mi-endpoint": {
+      "handler": "functions/mi-endpoint.js"
+    }
+  }
+}
