@@ -27,7 +27,7 @@
       </a>
 
       <a
-        href="#!"
+        href="/#"
         type="button"
         class="rounded-full bg-white p-3 uppercase leading-normal text-surface shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 light:bg-neutral-700 light:text-white"
         data-twe-ripple-init
@@ -45,7 +45,7 @@
       </a>
 
       <a
-        href="#!"
+        href="/#"
         type="button"
         class="rounded-full bg-white p-3 uppercase leading-normal text-surface shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:bg-neutral-700 dark:text-white"
         data-twe-ripple-init
@@ -63,7 +63,7 @@
       </a>
 
       <a
-        href="#!"
+        href="/#"
         type="button"
         class="rounded-full bg-white p-3 uppercase leading-normal text-surface shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:bg-neutral-700 dark:text-white"
         data-twe-ripple-init
@@ -81,7 +81,7 @@
       </a>
 
       <a
-        href="#!"
+        href="/#"
         type="button"
         class="rounded-full bg-white p-3 uppercase leading-normal text-surface shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:bg-neutral-700 dark:text-white"
         data-twe-ripple-init
@@ -99,7 +99,7 @@
       </a>
 
       <a
-        href="#!"
+        href="/#"
         type="button"
         class="rounded-full bg-white p-3 uppercase leading-normal text-surface shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:bg-neutral-700 dark:text-white"
         data-twe-ripple-init

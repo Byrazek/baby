@@ -51,8 +51,8 @@
 		</div>
 		<div class="hidden lg:flex lg:flex-1 lg:justify-end">
 			{#if logged === true}
-				<a href="" on:click={admin} class="text-sm font-semibold leading-6 text-gray-900 mr-10">&#9881</a>
-				<a href="" on:click={logout} class="text-sm font-semibold leading-6 text-gray-900">Log out <span aria-hidden="true">&rarr;</span></a>
+				<a href="/#" on:click={admin} class="text-sm font-semibold leading-6 text-gray-900 mr-10">&#9881</a>
+				<a href="/#" on:click={logout} class="text-sm font-semibold leading-6 text-gray-900">Log out <span aria-hidden="true">&rarr;</span></a>
 			{:else}
 				<a href="/login" class="text-sm font-semibold leading-6 text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a>
 			{/if}

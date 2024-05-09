@@ -1,9 +1,10 @@
 <script>
-  // @ts-nocheck
-  // import Layout from '../+layout.svelte';
   import Layout from './layout.svelte'
 	import { onMount } from "svelte";
   let API_URL = "http://localhost:5038/"
+  /**
+	 * @type {any[]}
+	 */
   let newsletter = []
 
   function usuarios() {
@@ -25,9 +26,7 @@
 
 <Layout>
   <main>
-    <!-- Parallax -->
-  <img class="parallax" src="/src/lib/images/parallax.webp" alt="">
-    <!-- Apartados de ventas -->
+  <img class="parallax" src="" alt="">
   <div class="bg-white">
     <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
       <h2 class="sr-only">Products</h2>
@@ -52,13 +51,11 @@
     </div>
   </div>
   
-  <!-- Titulares newsletter -->
   <section class="flex flex-col justify-center items-center mt-16">
     <div class="nc text-4xl">Nueva Coleccion 2024</div>
     <div class="mt-5">Nueva selección de prendas para niños de diferentes edades está disponible online</div>
   </section>
   
-  <!-- Productos newsletter -->
   <div class="bg-white">
     <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:mt-20 lg:max-w-7xl lg:px-8">
   
@@ -76,7 +73,6 @@
       </div>
     </div>
   </div>
-  <!-- Raya de abajo -->
   <div class="flex justify-center sm:mb-32" style="width: 100%;">
     <div class="raya bg-gray-200"></div>
   </div>
