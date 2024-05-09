@@ -1,7 +1,5 @@
 {
-  "functions": {
-    "api/mi-endpoint": {
-      "borrar": "functions/mi-endpoint.js"
-    }
-  }
+  "builds": [
+    { "src": "*.js", "use": "@vercel/node" }
+  ]
 }
