@@ -1,7 +1,7 @@
 <script>
   import Layout from './layout.svelte'
 	import { onMount } from "svelte";
-  let API_URL = "https://nijolinnijolan:5038"
+  let API_URL = "http://localhost"
   /**
 	 * @type {any[]}
 	 */
